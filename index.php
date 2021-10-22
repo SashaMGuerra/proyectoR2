@@ -12,6 +12,9 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Usando ramas</h1>
-        <a href="ejercicio/colors2.php">Ejecutar</a>
+        <ul>
+            <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
+            <li><a href="ejercicio/factorial.php">Factorial</a></li>
+        </ul>
     </body>
 </html>
