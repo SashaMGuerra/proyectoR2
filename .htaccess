@@ -1,0 +1,7 @@
+ErrorDocument 403 /proyectoR2/errors/403.html
+ErrorDocument 404 /proyectoR2/errors/404.html
+
+DirectoryIndex home.php /proyectoTema3/indexProyectoTema3.php index.html
+
+Redirect 301 /proyectoR2/google https://www.google.com/
+Redirect 301 /proyectoR2/php https://www.php.net/manual
