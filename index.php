@@ -11,10 +11,10 @@ and open the template in the editor.
         <link href="webroot/style/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <?php
-        echo 'Proyecto R2';
-        echo 'Cambios para commit 1.1'.
-        phpinfo();
-        ?>
+        <h1>Usando ramas</h1>
+        <ul>
+            <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
+            <li><a href="ejercicio/factorial.php">Factorial</a></li>
+        </ul>
     </body>
 </html>
