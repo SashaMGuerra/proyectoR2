@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!--
+Fecha de creación: 23/10/2021
+-->
+<html>
+    <head>
+        <title>Creador de arrays</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <script>
+            /*
+             * Se piden por pantalla 5 nombre y devuelve un array para php.
+             */
+
+            fila = prompt("¿Cuántas filas?");
+            asientos = prompt("¿Cuántos asientos?");
+            confirmar = confirm("¿Vas a querer keys?");
+            
+            for (vuelta = 0; vuelta < fila; vuelta++) {
+                personasAsiento = [];
+                for (vez = 0; vez < asientos; vez++) {
+                    nombre = prompt("Introduzca el asiento " + (vez + 1));
+                    personasAsiento.push(nombre);
+                }
+
+                if(confirmar){
+                    document.write(vuelta + " => [");
+                }
+                else{
+                    document.write("[");
+                }
+                
+                for (elementoAsiento = 0; elementoAsiento < personasAsiento.length - 1; elementoAsiento++) {
+                    document.write(`"${personasAsiento[elementoAsiento]}", `);
+                }
+                document.write(`"${personasAsiento[personasAsiento.length - 1]}"`);
+                
+                if(vuelta == fila-1){
+                    document.write("]<br>");
+                }
+                else{
+                    document.write("],<br>");
+                }
+        
+            }
+
+
+
+        </script>
+    </body>
+</html>

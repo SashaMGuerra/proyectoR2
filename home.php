@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'vuelve a casa por navidad';
+        echo 'Home';
         ?>
         <ul>
             <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
