@@ -13,7 +13,7 @@ and open the template in the editor.
     <body>
         <h1>Index</h1>
         <ul>
-            <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
+            <li><a href="ejercicio/colors2.php">Colores</a></li>
             <li><a href="ejercicio/factorial.php">Factorial</a></li>
             <li><a href="ejercicio/array.html">Matrices</a></li>
         </ul>

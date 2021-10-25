@@ -23,3 +23,19 @@ td, th{
 div{
     height: 25px;
 }
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    display: block;
+    width: 75%;
+    text-align: center;
+    text-decoration: none;
+    background-color: lightcyan;
+    border: 2px solid cyan;
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 1% 0;
+}
