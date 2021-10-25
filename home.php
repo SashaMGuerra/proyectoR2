@@ -14,8 +14,8 @@ and open the template in the editor.
         echo 'Home';
         ?>
         <ul>
-            <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
-            <li><a href="ejercicio/factorial.php">Factorial</a></li>
+            <li><a href="proyectos/colors2.php">Ejecutar</a></li>
+            <li><a href="proyectos/factorial.php">Factorial</a></li>
         </ul>
     </body>
 </html>
