@@ -18,6 +18,7 @@ and open the template in the editor.
             <li><a href="proyectos/array.html">Matrices</a></li>
             <li><a href="proyectos/arrayFormulario/arrayFormulario.php">Tabla con estilo</a></li>
             <li><a href="proyectos/characterForm/cForm.php">Formulario de personaje</a></li>
+            <a href="proyectos/hundirlosbarcos/index.html">Hundir los barcos</a>
         </ul>
     </body>
 </html>
