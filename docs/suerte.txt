@@ -1,0 +1,21 @@
+
+
+<div class="suerte"><a href="proyectoR2/index.php">Voy a tener suerte</a></div>
+            
+
+
+.suerte{
+    text-align: center;
+    font-size: small;
+}
+.suerte a{
+    background-color: mediumpurple;
+    color: white;
+    border: 2px solid blueviolet;
+    text-decoration: none;
+    padding: 0.5%;
+}
+.suerte a:hover{
+    background-color: blueviolet;
+    border: 2px solid indigo;
+}

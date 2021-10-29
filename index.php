@@ -11,10 +11,14 @@ and open the template in the editor.
         <link href="webroot/style/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <h1>Usando ramas</h1>
+        <h1>Index</h1>
         <ul>
-            <li><a href="ejercicio/colors2.php">Ejecutar</a></li>
-            <li><a href="ejercicio/factorial.php">Factorial</a></li>
+            <li><a href="proyectos/colors2.php">Colores</a></li>
+            <li><a href="proyectos/factorial.php">Factorial</a></li>
+            <li><a href="proyectos/array.html">Matrices</a></li>
+            <li><a href="proyectos/arrayFormulario/arrayFormulario.php">Tabla con estilo</a></li>
+            <li><a href="proyectos/characterForm/cForm.php">Formulario de personaje</a></li>
+            <a href="proyectos/hundirlosbarcos/index.html">Hundir los barcos</a>
         </ul>
     </body>
 </html>
