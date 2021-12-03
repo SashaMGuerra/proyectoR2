@@ -11,7 +11,7 @@ and open the template in the editor.
         <link href="webroot/style/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <h1>Index modificado otra vez</h1>
+        <h1>Index modificado otra vez 2</h1>
         <ul>
             <li><a href="proyectos/colors2.php">Colores</a></li>
             <li><a href="proyectos/factorial.php">Factorial</a></li>
