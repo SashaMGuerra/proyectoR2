@@ -11,7 +11,7 @@ and open the template in the editor.
         <link href="webroot/style/style.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <h1>Index</h1>
+        <h1>Index modificado otra vez</h1>
         <ul>
             <li><a href="proyectos/colors2.php">Colores</a></li>
             <li><a href="proyectos/factorial.php">Factorial</a></li>
@@ -19,6 +19,7 @@ and open the template in the editor.
             <li><a href="proyectos/arrayFormulario/arrayFormulario.php">Tabla con estilo</a></li>
             <li><a href="proyectos/characterForm/cForm.php">Formulario de personaje</a></li>
             <a href="proyectos/hundirlosbarcos/index.html">Hundir los barcos</a>
+            <li><a href="proyectos/escrituraInversa/index.html">Escritura inversa</a></li>
         </ul>
     </body>
 </html>
